@@ -1,0 +1,48 @@
+prefix: "§6[§fStaffMode§6]"
+staffmode_enable: "{prefix} §aStaffmode Enable"
+staffmode_disable: "{prefix} §cStaffmode disable"
+
+freeze: "§b§lFreeze"
+freeze_success: "{prefix} §aYou have successfully frozen %"
+unfreeze_success: "{prefix} §aYou have successfully unfrozen %"
+player_freeze_success: "{prefix} §aYou have been successfully frozen"
+player_unfreeze_success: "{prefix} §aYou have been successfully unfrozen"
+
+stick: "§c§lKnockback"
+
+vanish: "§a§lVanish"
+unvanish: "§d§lUnvanish"
+vanish_success: "{prefix} §aYou have been successfully vanish"
+unvanish_success: "{prefix} §aYou have been successfully unvanish"
+
+random_tp: "§d§lRandom teleport"
+random_tp_success: "{prefix} §aYou have successfully teleported to %"
+random_tp_not_found: "{prefix} §cThere isn't any players on this server."
+
+inventory_inspect: "§6§lInventory inspect"
+inventory_title: "Inventiry of %"
+inventory_armor_1: "§cHelmet ->"
+inventory_armor_2: "§c<- Helmet | Chestplate ->"
+inventory_armor_3: "§c<- Chestplate | Leggings ->"
+inventory_armor_4: "§c<- Leggings | Boots ->"
+inventory_armor_5: "§c<- Boots"
+
+kill: "§c§lKill"
+kill_success: "{prefix} §aYou have successfully killed %"
+
+fly: "§b§lFly"
+fly_success: "{prefix} §aYou have successfully activated the fly mode"
+unfly_success: "{prefix} §aYou have successfully deactivated the fly mode"
+
+clearinv: "§c§lClear inventory"
+clear_success: "{prefix} §aYou have successfully deleted %'s inventory"
+
+undo_offline: "{prefix} §cPlayer not found"
+undo_not_found: "{prefix} §cYou haven't any actions to undo"
+undo_success: "{prefix} §cYou have successfully restored % inventory"
+
+information: "§b§lInformations"
+informations_title: "%' informations"
+
+# {name} {ping} {xuid} {uuid} {model} {os} {controls} {ui_type} {gui_scale}
+informations_description: "§6Name: §f{name}\n§6Xuid: §f{xuid}\n§6UUID: §f{uuid}\n\n§6Model: §f{model}\n§6OS: §f{os}\n§6Controls: §f{controls}\n§6UI: §f{ui_type}\n§6GUI: §f{gui_scale}\n\n§6Ping: §f{ping}"
